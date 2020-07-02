@@ -1,0 +1,21 @@
+{
+  "git": {
+    "uri": "https://github.com/bkirkware/cook-config",
+    "label": "develop",
+    "repos": {
+      "cook": {
+        "pattern": [
+          "cook/*"
+        ],
+        "uri": "https://github.com/bkirkware/cook-config",
+        "label": "develop"
+      },
+      "cook2": {
+        "pattern": [
+          "cook2/*"
+        ],
+        "uri": "https://github.com/bkirkware/cook2-config"
+      }
+    }
+  }
+}

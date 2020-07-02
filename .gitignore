@@ -12,3 +12,5 @@ bin
 target/
 .idea
 *.iml
+*.key
+cook-develop-encrypt.json
